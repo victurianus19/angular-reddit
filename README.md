@@ -1,4 +1,5 @@
-# App of example about the voting of Courses, You can see in this link (https://dist-hwutolphlc.now.sh)
+# App of example about the voting of Courses
+You can see in this link (https://dist-hwutolphlc.now.sh)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
